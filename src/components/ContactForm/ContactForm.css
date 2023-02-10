@@ -1,0 +1,25 @@
+.box {
+    border: 2px solid black;
+    justify-content: center;
+    min-height: 350px;
+    /* margin:350px; */
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    display: flex;
+    margin-top: 10px;
+    padding-top: 20px;
+    /* flex-direction: row; */
+}
+
+@media screen and (max-width: 769px) {
+.box {
+    border: 2px solid black;
+    min-height: 450px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    
+    /* flex-direction: row; */
+}
+}

@@ -1,0 +1,41 @@
+.pt20 {
+    padding-top: 20px;
+    background-color: black;
+    color: #fff;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.pt50 {
+    padding-top: 50px;
+}
+.box .left {
+    padding-top: 70px;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif !important;
+}
+.color-dark {
+    color: #5f6467 !important;
+}
+@media screen and (max-width: 769px){
+.col-xs-4 {
+    width: 33.33333333%;
+    /* font-family: "sans-serif"; */
+    text-align: "right";
+}
+}
+
+
+.h4, .h5, .h6, h4, h5, h6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
