@@ -24,7 +24,7 @@ class Navbar extends Component {
                 <li><a href="index.html">PRODUCTS</a></li>
                 <li><a href="index.html">AI INTERNSHIP</a></li>
                 <li><a href="index.html">CAREER</a></li>
-                <li><a href="index.html">BOG</a></li>
+                <li><a href="index.html">BlOG</a></li>
                 <li><a href="index.html">ABOUT</a></li>
                 <li><a href="index.html">CONTACT US</a></li>
             </ul>
