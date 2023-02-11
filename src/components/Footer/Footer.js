@@ -57,8 +57,7 @@ function Footer() {
 							<h6 className="font-montserrat text-uppercase color-dark" style={{textAlign:"left"}}>Social Media</h6>
                             <div className="social social-two" style={{textAlign:"left"}}>
                                   
-                                <a href=" " target="_blank"><i class="fa fa-facebook color-primary"></i></a>
-                                <a href=" " target="_blank"><i class="fa fa-linkedin color-blue"></i></a>
+                             
                                  
                             </div>
                         </div>
