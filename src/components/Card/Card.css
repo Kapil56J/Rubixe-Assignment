@@ -13,7 +13,7 @@
   .testimonial .col-4{
     text-align: center;
     /* padding: 40px 20px; */
-    box-shadow: 0 0 5px rgb(0, 0, 0);
+    box-shadow: rgb(0 0 0 / 20%) 5px -5px 5px;
     cursor: pointer;
     width: 20%;
     border-radius: 25px;
